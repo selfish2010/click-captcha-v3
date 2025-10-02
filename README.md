@@ -2,14 +2,6 @@
 
 这是一个基于Vue的点击验证码插件
 
-## 安装
-
-```bash
-npm install click-captcha-v3 --save
-# 或
-pnpm add click-captcha-v3
-```
-
 ## 使用方法
 
 ### 全局引入
